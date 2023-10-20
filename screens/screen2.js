@@ -7,9 +7,7 @@ import {
   TouchableOpacity,
   TextInput,
 } from "react-native";
-function Screen2(props) {
-  const { count } = props;
-
+function Screen2() {
   const dataLab4b = [
     {
       img: require("../assets/img2/giacchuyen 1.png"),
